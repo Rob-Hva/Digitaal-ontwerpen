@@ -1,0 +1,32 @@
+# Quartus-generated folders
+db/
+incremental_db/
+output_files/
+simulation/
+work/
+
+# Backup and report files
+*.rpt
+*.bak
+*.summary
+*.smsg
+*.qws
+*.chg
+*.cmp
+*.eqn
+*.fit
+*.jdi
+*.pin
+*.qws
+*.smsg
+*.tcl
+
+# Programming files (can be regenerated)
+*.sof
+*.pof
+*.jic
+
+# Other temporary / tool files
+*.mpf
+*.cr.mti
+transcript
