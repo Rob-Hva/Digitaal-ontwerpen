@@ -2,8 +2,20 @@
 db/
 incremental_db/
 output_files/
-simulation/
 work/
+
+# Negeer de extra bestanden van simulation
+simulation/questa/gate_work
+simulation/**/rtl_work
+simulation/**/*.do
+simulation/**/*.dqb
+simulation/**/*.ini
+simulation/**/*.qtl
+simulation/**/*.sft
+simulation/**/*_transcript
+simulation/**/*.vho
+simulation/**/*.wlf
+
 
 # Backup and report files
 *.rpt
