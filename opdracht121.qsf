@@ -39,7 +39,7 @@
 
 set_global_assignment -name FAMILY "Cyclone IV E"
 set_global_assignment -name DEVICE EP4CE22F17C6
-set_global_assignment -name TOP_LEVEL_ENTITY opdracht331
+set_global_assignment -name TOP_LEVEL_ENTITY opdracht332
 set_global_assignment -name ORIGINAL_QUARTUS_VERSION 24.1STD.0
 set_global_assignment -name PROJECT_CREATION_TIME_DATE "16:32:54  SEPTEMBER 05, 2025"
 set_global_assignment -name LAST_QUARTUS_VERSION "24.1std.0 Lite Edition"
@@ -55,6 +55,8 @@ set_global_assignment -name EDA_GENERATE_FUNCTIONAL_NETLIST OFF -section_id eda_
 set_global_assignment -name EDA_GENERATE_FUNCTIONAL_NETLIST OFF -section_id eda_board_design_symbol
 set_global_assignment -name EDA_GENERATE_FUNCTIONAL_NETLIST OFF -section_id eda_board_design_signal_integrity
 set_global_assignment -name EDA_GENERATE_FUNCTIONAL_NETLIST OFF -section_id eda_board_design_boundary_scan
+set_global_assignment -name POWER_PRESET_COOLING_SOLUTION "23 MM HEAT SINK WITH 200 LFPM AIRFLOW"
+set_global_assignment -name POWER_BOARD_THERMAL_MODEL "NONE (CONSERVATIVE)"
 set_global_assignment -name VHDL_FILE opdracht121.vhd
 set_global_assignment -name VHDL_FILE opdracht122.vhd
 set_global_assignment -name VHDL_FILE opdracht123.vhd
@@ -67,9 +69,8 @@ set_global_assignment -name VHDL_FILE opdracht222.vhd
 set_global_assignment -name VHDL_FILE opdracht231.vhd
 set_global_assignment -name VHDL_FILE opdracht232.vhd
 set_global_assignment -name VHDL_FILE opdracht321.vhd
-set_global_assignment -name POWER_PRESET_COOLING_SOLUTION "23 MM HEAT SINK WITH 200 LFPM AIRFLOW"
-set_global_assignment -name POWER_BOARD_THERMAL_MODEL "NONE (CONSERVATIVE)"
 set_global_assignment -name VHDL_FILE opdracht331.vhd
+set_global_assignment -name VHDL_FILE opdracht332.vhd
 set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
 set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
 set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
