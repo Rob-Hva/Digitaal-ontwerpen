@@ -7,10 +7,7 @@ work/
 # Negeer de extra bestanden van simulation
 simulation/questa/gate_work
 simulation/**/rtl_work
-simulation/**/*.bak1
-simulation/**/*.bak2
-simulation/**/*.bak3
-simulation/**/*.bak4
+simulation/**/*.bak*
 simulation/**/*.do
 simulation/**/*.dqb
 simulation/**/*.ini
