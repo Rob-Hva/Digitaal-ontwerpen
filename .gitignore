@@ -16,7 +16,7 @@ simulation/**/*.sft
 simulation/**/*_transcript
 simulation/**/*.vho
 simulation/**/*.wlf
-
+simulation/**/wlf*
 
 # Backup and report files
 *.rpt
