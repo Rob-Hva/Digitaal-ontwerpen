@@ -1,0 +1,6 @@
+[libraries]
+
+lib.files = [
+"hdl/and_gate.vhd",
+"sim/and_gate_tb.vhd",
+]
