@@ -1,0 +1,1 @@
+Als er een input is die niet exact overeenkomt met value1, value2, value3 en value4 dan zal de vorige waarde onthouden. Dit betekent dat de compiler een latch zal aanmaken. Ook al lijkt het nu alsof er rekening wordt gehouden met alle mogelijke inputs is dit niet het geval. Het kan bijvoorbeeld voorkomen dat een ingang ongedefinieerd is.
