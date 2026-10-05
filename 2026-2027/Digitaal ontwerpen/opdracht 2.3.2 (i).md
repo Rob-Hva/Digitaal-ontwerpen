@@ -1,0 +1,1 @@
+q neemt pas de waarde van d aan wanneer de clk omhoog gaat. Als er veel tijd zit tussen het instellen van de waarde in d en het omhoog gaan van de clk zal het dus lang duren voordat q de waarde van d aanneemt. Als hier echter een heel korte tijd tussen zit zal q snel de waarde van d aannemen.
