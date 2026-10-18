@@ -1,0 +1,6 @@
+[libraries]
+
+lib.files = [
+"sim/opdracht31_tb.vhd",
+"hdl/opdracht31.vhd",
+]

@@ -1,0 +1,1 @@
+De LED die schakelt aan zodra de cc een waarde van 119999 bereikt heeft waarna de cc weer op 0 gezet wordt. Het fungeert eigenlijk hetzelfde als een overflow timer in een microcontroller (Maar dan als digitaal ontwerp geïmplementeerd). 

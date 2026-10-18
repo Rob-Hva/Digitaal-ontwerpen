@@ -1,0 +1,1 @@
+Het cc signaal staat waarschijnlijk voor clock count. Dit wordt gebruikt om de frequentie waarop de LED knippert te beïnvloeden. Zonder cc zou de LED namelijk net zo snel gaan knipperen als de clock van het ontwerp. 

@@ -1,0 +1,3 @@
+set_io clk   20  # 12MHz oscillator present on board
+set_io rst_n 11  # Active low push button on IOB_20a (see schematic)
+set_io led   10  # LED on IOB_18a (see schematic)

@@ -1,0 +1,1 @@
+Het rst_n signaal wordt veranderd op het punt 20,75 ms. Het signaal gaat van laag naar hoog dus het is een rising edge. Het rst_n signaal reset de schakeling wanneer deze laag is. Dus vanaf 20.75 ms wordt de schakeling niet meer gereset.

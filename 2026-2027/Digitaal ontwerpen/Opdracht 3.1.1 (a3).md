@@ -1,0 +1,1 @@
+Dit is waarschijnlijk gedaan om langere simulatie tijden te voorkomen. Als de frequentie lager staat zal elke switch van de LED langer duren waardoor er ook meer gesimuleerd moet worden.

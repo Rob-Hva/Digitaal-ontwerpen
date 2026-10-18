@@ -1,0 +1,1 @@
+Wanneer rst_n laag is worden alle signalen gereset. Hierdoor nemen ze de hele tijd hun standaard waarde aan. Wanneer rst_n hoog wordt zal er niks meer gereset worden en zal het ontwerp gaan werken.
