@@ -43,3 +43,7 @@ simulation/**/wlf*
 *.mpf
 *.cr.mti
 transcript
+
+# binary & waveform
+2026-2027/opdracht*/opdracht*_tb
+*.fst
