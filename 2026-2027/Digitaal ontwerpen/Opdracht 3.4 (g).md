@@ -1,0 +1,3 @@
+i. Het eerste moment dat er een input is begint op 50 us met a=10 en b=8. Het duurt ongeveer 200 us voordat er een 2 (10 - 8 = 2) op de output z komt
+ii. Het duurt zo lang omdat er 2 klokslagen nodig zijn voor het berekenen van de aftreksommen. 1 klokslag voor het vullen van de input registers en 1 klokslag voor het daadwerkelijk berekenen. En met een klokperiode van 100 us kan het dus wel tot 200 us duren.
+![[Pasted image 20261023135111.png]]
