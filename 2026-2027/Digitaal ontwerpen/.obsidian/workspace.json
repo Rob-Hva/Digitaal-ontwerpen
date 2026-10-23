@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Opdracht 3.1.1 (a3)"
             }
+          },
+          {
+            "id": "0a86c19fb7e8e75d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opdracht 3.4 (g).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Opdracht 3.4 (g)"
+            }
+          },
+          {
+            "id": "8804a51020f674dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opdracht 4.1 (e).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Opdracht 4.1 (e)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,20 +229,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eef94c4bb931d5cc",
+  "active": "0a86c19fb7e8e75d",
   "lastOpenFiles": [
-    "Opdracht 3.1.1 (b2).md",
+    "Opdracht 4.1 (e).md",
+    "Opdracht 3.4 (g).md",
+    "Pasted image 20261023135111.png",
+    "opdracht 2.1.1 (b).md",
+    "opdracht 2.3.2 (h).md",
+    "opdracht 2.3.2 (i).md",
     "Opdracht 3.1.1 (a3).md",
+    "Opdracht 3.1.1 (b2).md",
     "Opdracht 3.1.1 (a).md",
     "Opdracht 3.1.1 (b).md",
     "Opdracht 3.1.1 (a2).md",
     "Pasted image 20261005103903.png",
-    "opdracht 2.3.2 (i).md",
     "opdracht 2.2.1(e).md",
-    "opdracht 2.3.2 (h).md",
     "Pasted image 20261005102923.png",
     "Pasted image 20261005103421.png",
-    "opdracht 2.1.1 (b).md",
     "opdracht221.svg",
     "opdracht 2.1.1 (a).md",
     "opdracht 1.2.4 (b).md",

@@ -1,0 +1,1 @@
+Ik merk niks van de bounce. Dit komt door de debounce condensatoren en pull up weerstanden. Eigenlijk moet je een debounce hebben in het digitaal ontwerp. Dan heb je namelijk geen condensatoren meer nodig. Daarnaast zullen de debounce problemen alleen maar erger worden op een hogere frequentie.
