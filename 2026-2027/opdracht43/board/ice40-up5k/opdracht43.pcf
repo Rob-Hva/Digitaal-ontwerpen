@@ -1,0 +1,3 @@
+set_io a 9  # IOB_16a
+set_io b 10 # IOB_18a
+set_io z 11 # IOB_20a
