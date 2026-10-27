@@ -1,0 +1,1 @@
+Voor deze opdracht zal ik er vanuit gaan dat een knop minstens 20 ms ingedrukt blijft en dat de debounce van de knop korter is dan deze 20 ms.

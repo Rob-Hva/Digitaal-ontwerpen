@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a353f169232e2335",
+        "id": "9481cb204d24b163",
         "type": "tabs",
         "children": [
           {
-            "id": "eef94c4bb931d5cc",
+            "id": "a82200f9bb42e616",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Opdracht 3.1.1 (a3).md",
+                "file": "Opdracht 4.2 (b).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opdracht 3.1.1 (a3)"
-            }
-          },
-          {
-            "id": "0a86c19fb7e8e75d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Opdracht 3.4 (g).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Opdracht 3.4 (g)"
-            }
-          },
-          {
-            "id": "8804a51020f674dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Opdracht 4.1 (e).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Opdracht 4.1 (e)"
+              "title": "Opdracht 4.2 (b)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,12 +200,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a86c19fb7e8e75d",
+  "active": "a82200f9bb42e616",
   "lastOpenFiles": [
-    "Opdracht 4.1 (e).md",
-    "Opdracht 3.4 (g).md",
-    "Pasted image 20261023135111.png",
+    "opdracht 2.2.1(e).md",
     "opdracht 2.1.1 (b).md",
+    "opdracht 2.1.1 (a).md",
+    "opdracht 1.2.4 (b).md",
+    "opdracht 1.2.4 (a).md",
+    "opdracht 1.2.3 (b).md",
+    "opdracht 1.2.3 (a).md",
+    "opdracht 1.1 (a).md",
+    "opdracht 1.1 (c).md",
+    "Opdracht 4.2 (b).md",
+    "Pasted image 20261005103903.png",
+    "Opdracht 3.4 (g).md",
+    "Opdracht 4.2 (a).md",
+    "Opdracht 4.1 (e).md",
+    "Pasted image 20261023135111.png",
     "opdracht 2.3.2 (h).md",
     "opdracht 2.3.2 (i).md",
     "Opdracht 3.1.1 (a3).md",
@@ -242,19 +224,10 @@
     "Opdracht 3.1.1 (a).md",
     "Opdracht 3.1.1 (b).md",
     "Opdracht 3.1.1 (a2).md",
-    "Pasted image 20261005103903.png",
-    "opdracht 2.2.1(e).md",
     "Pasted image 20261005102923.png",
     "Pasted image 20261005103421.png",
     "opdracht221.svg",
-    "opdracht 2.1.1 (a).md",
-    "opdracht 1.2.4 (b).md",
-    "opdracht 1.2.4 (a).md",
-    "opdracht 1.2.3 (b).md",
     "Excalidraw/Opdracht 1.1 (b).md",
-    "opdracht 1.2.3 (a).md",
-    "opdracht 1.1 (c).md",
-    "opdracht 1.1 (a).md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "test.md",

@@ -1,0 +1,2 @@
+Als ik er vanuit ga dat de knop minstens $20 [ms]$ ingedrukt is en ik $8$ samples wil zal ik
+om de $\frac{20[ms]}{8}$  moeten samplen wat een frequentie geeft van $\frac{1}{\frac{20[ms]}{8}} = 400[Hz]$.
